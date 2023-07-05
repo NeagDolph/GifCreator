@@ -1,0 +1,8 @@
+name: GifCreator
+version: '1.0.0'
+main: dev.lemontree.gifcreator.GifCreator
+api-version: '1.19'
+commands:
+  gif:
+    description: Gives you a gif image map
+    usage: /gif <search>
