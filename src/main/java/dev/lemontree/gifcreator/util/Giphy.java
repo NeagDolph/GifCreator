@@ -45,7 +45,7 @@ public class Giphy {
 
         String response = Network.getJson(urlString);
 
-        SearchJson jsonResponse = gson.fromJson(response.toString(), SearchJson.class);
+        SearchJson jsonResponse = gson.fromJson(response, SearchJson.class);
 
         return List.of(jsonResponse.data());
     }

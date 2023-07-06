@@ -4,5 +4,6 @@ main: dev.lemontree.gifcreator.GifCreator
 api-version: '1.19'
 commands:
   gif:
-    description: Gives you a gif image map
-    usage: /gif <search>
+    description: Searches a GIF on GIPHY using a search term
+    usage: /gif [search]
+    permission: gifcreator.gif
