@@ -1,6 +1,9 @@
 # GifCreator
 
+![GifCreator Logo](https://github.com/NeagDolph/GifCreator/blob/main/gifcreator_logo.png?raw=true)
+
 A Spigot 1.19.4 GIF creation plugin utilizing the GIPHY API.
+### [Download on Spigot](https://www.spigotmc.org/resources/gifcreator.111914/)
 
 ## What is GifCreator
 
